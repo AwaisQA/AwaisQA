@@ -2,8 +2,6 @@
 ## 👋 Hello, I'm Awais Bhatti
 
 **Helping Businesses Deliver Bug-Free Software**
-**Manual & Automation QA Specialist | 4+ Years Experience**
-
 ---
 
 ### 🧪 About Me
