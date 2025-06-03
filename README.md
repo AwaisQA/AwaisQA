@@ -1,11 +1,33 @@
-Hello I'm Awais Bhatti 
-Your Partner in Bug-Free Software Launches.
 
+## 👋 Hello, I'm Awais Bhatti
 
-SQA Engineer with over 4 years of experience ensuring the quality and reliability of web and mobile applications. Skilled in both manual and automation testing, with a strong focus on functional, API, and database testing. Proficient in tools and technologies such as Selenium WebDriver, Postman, SQL, and JIRA.
+**Helping Businesses Deliver Bug-Free Software**
+**Manual & Automation QA Specialist | 4+ Years Experience**
 
-I focus on making sure software works great by testing thoroughly, catching bugs early, and teaming up well with others. I’m always picking up new testing skills to help deliver smooth, hassle-free experiences for users.
+---
 
+### 🧪 About Me
+
+I’m a passionate SQA Engineer with 4+ years of experience ensuring the **quality, performance, and reliability** of web and mobile applications.
+
+Skilled in **manual and automation testing**, I specialize in functional testing, API validation, and database accuracy. I use industry-standard tools like **Selenium WebDriver, Postman, SQL, and JIRA** to help teams launch confidently and bug-free.
+
+I focus on **thorough testing, early bug detection**, and smooth collaboration to make sure your users always get the best experience.
+
+---
+
+### 🔧 Services I Offer
+
+* ✅ Manual Testing for Web & Mobile Applications
+* ✅ API Testing (Postman, Swagger)
+* ✅ Database Testing (SQL Queries & Data Validation)
+* ✅ Detailed Bug Reporting (JIRA, Trello, Excel)
+* ✅ Test Case Design & Execution
+* ✅ Post-Deployment QA & Smoke Testing Support
+
+---
+
+### 🛠️ Skills & Tools
 
 ✔️ Manual Testing
 ✔️ Automation Testing (Selenium WebDriver, C#, Java)
@@ -19,8 +41,10 @@ I focus on making sure software works great by testing thoroughly, catching bugs
 ✔️ Version Control (Git)
 ✔️ Communication & Collaboration
 
-📧 Contact: M.Awais1256@gmail.com
+---
 
+📩 **Contact Me**
+📧 [Awaisb.work@gmail.com](mailto:Awaisb.work@gmail.com)
 <!--
 **AwaisQA/AwaisQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
