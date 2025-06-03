@@ -1,6 +1,6 @@
-                                                                              Hello I'm Awais Bhatti 
+                                                                Hello I'm Awais Bhatti 
 
-                                                                    Your Partner in Bug-Free Software Launches.
+                                                          Your Partner in Bug-Free Software Launches.
 
 Results-driven SQA Engineer with over 4 years of experience ensuring the quality and reliability of web and mobile applications. Skilled in both manual and automation testing, with a strong focus on functional, API, and database testing. Proficient in tools and technologies such as Selenium WebDriver, Postman, SQL, and JIRA.
 
